@@ -2,6 +2,9 @@
 
 ## Node.js and Bun version
 
+> [!NOTE]  
+> Now moved to [1brc/nodejs](https://github.com/1brc/nodejs) and [1brc/bun](https://github.com/1brc/bun), submissions are welcomed.
+
 ### Straight to the code:
 
 [Nodejs version.](./src/main/nodejs/index.js)  
